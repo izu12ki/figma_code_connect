@@ -1,0 +1,60 @@
+{
+  "color": {
+    "primary": {
+      "value": "oklch(0.55 0.15 240)",
+      "type": "color",
+      "description": "Primary brand color - calming blue for healthcare app"
+    },
+    "primary-foreground": {
+      "value": "oklch(0.99 0 0)",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "oklch(0.95 0.01 240)",
+      "type": "color"
+    },
+    "background": {
+      "value": "oklch(0.99 0.005 240)",
+      "type": "color"
+    },
+    "foreground": {
+      "value": "oklch(0.25 0.01 240)",
+      "type": "color"
+    },
+    "muted": {
+      "value": "oklch(0.96 0.005 240)",
+      "type": "color"
+    },
+    "accent": {
+      "value": "oklch(0.92 0.02 240)",
+      "type": "color"
+    },
+    "destructive": {
+      "value": "oklch(0.577 0.245 27.325)",
+      "type": "color"
+    },
+    "border": {
+      "value": "oklch(0.9 0.01 240)",
+      "type": "color"
+    }
+  },
+  "spacing": {
+    "radius": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "description": "Base border radius"
+    }
+  },
+  "typography": {
+    "font-family": {
+      "sans": {
+        "value": "Geist, Geist Fallback",
+        "type": "fontFamily"
+      },
+      "mono": {
+        "value": "Geist Mono, Geist Mono Fallback",
+        "type": "fontFamily"
+      }
+    }
+  }
+}
